@@ -1,5 +1,4 @@
-// Samith Shripad Hegde
-// 201ME349
+
 // CS252 Assignment
 // Question No. 3.21
 
