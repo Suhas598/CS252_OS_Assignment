@@ -34,5 +34,5 @@ In the source-code download for this text, you will find a sample program that p
 
 Readers interested in the details of the Monte Carlo method for estimating π should consult the bibliography at the end of this chapter. In Chapter 6, we modify this exercise using relevant material from that chapter.
 
-Credits: https://github.com/Samith-hegde/CollatzConjecture
-          https://github.com/sankronaldo/CS-252-OS-Assignment
+Credits: https://github.com/Samith-hegde/CollatzConjecture  
+         https://github.com/sankronaldo/CS-252-OS-Assignment
