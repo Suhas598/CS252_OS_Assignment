@@ -33,3 +33,6 @@ It is worth experimenting with the number of random points generated. As a gener
 In the source-code download for this text, you will find a sample program that provides a technique for generating random numbers, as well as determining if the random (x, y) point occurs within the circle.
 
 Readers interested in the details of the Monte Carlo method for estimating π should consult the bibliography at the end of this chapter. In Chapter 6, we modify this exercise using relevant material from that chapter.
+
+Credits: https://github.com/Samith-hegde/CollatzConjecture
+          https://github.com/sankronaldo/CS-252-OS-Assignment
