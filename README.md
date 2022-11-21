@@ -1,15 +1,14 @@
 # CS252_OS_Assignment
 
-# CS-252-OS-Assignment
 The assignment consists of two questions from the exercise section of the 10th edition of Operating System Concepts by Abraham Silberschatz, Peter Baer Galvin and Greg Gagne.
 
 # Questions
 ## Question 1: Chapter 3 - 3.21
 
-The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
-n =
-{ n∕2, if n is even
-3 × n + 1, if n is odd
+The Collatz conjecture concerns what happens when we take any positive integer n and apply the following algorithm:
+n = { n∕2, if n is even
+     3 × n + 1, if n is odd
+
 The conjecture states that when this algorithm is continually applied,
 all positive integers will eventually reach 1. For example, if n = 35, the
 sequence is
